@@ -1,6 +1,6 @@
 # CRUD-Vite-JavaScript-Vanilla
 
-# Webpack starter
+# CRUD Vite Aplication
 
 Este es el CRUD JavaScript Ocupando VITE
 
